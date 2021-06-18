@@ -1,0 +1,99 @@
+{
+  "bosses": {
+    "ridley_killed": true,
+    "kraid_killed": true,
+    "zebetite1_killed": false,
+    "zebetite2_killed": false,
+    "zebetite3_killed": false,
+    "zebetite4_killed": false,
+    "zebetite5_killed": false,
+    "mother_brain_killed": false
+  },
+  "statues": {
+    "ridley_statue_raised": true,
+    "kraid_statue_raised": true
+  },
+  "doors": {
+    "long_beam": false,
+    "tourian_bridge": false,
+    "bombs": false,
+    "brinstar_ice_beam": false,
+    "varia": false,
+    "norfair_ice_beam": false,
+    "high_jump_boots": false,
+    "screw_attack": false,
+    "wave_beam": false,
+    "kraids_lair1": false,
+    "kraids_lair2": false,
+    "kraids_lair3": false,
+    "kraids_lair4": false,
+    "kraids_room": false,
+    "ridleys_lair": false,
+    "ridleys_room": false,
+    "tourian1": false,
+    "tourian2": false,
+    "tourian3": false
+  },
+  "missile_containers": {
+    "brinstar1": false,
+    "brinstar2": false,
+    "norfair1": false,
+    "norfair2": false,
+    "norfair3": false,
+    "norfair4": false,
+    "norfair5": false,
+    "norfair6": false,
+    "norfair7": false,
+    "norfair8": false,
+    "norfair9": false,
+    "norfair10": false,
+    "norfair11": false,
+    "norfair12": false,
+    "kraids_lair1": false,
+    "kraids_lair2": false,
+    "kraids_lair3": false,
+    "kraids_lair4": false,
+    "ridleys_lair1": false,
+    "ridleys_lair2": false,
+    "ridleys_lair3": false
+  },
+  "energy_tanks": {
+    "brinstar1": true,
+    "brinstar2": true,
+    "brinstar3": true,
+    "norfair": true,
+    "kraids_lair": true,
+    "kraids_room": true,
+    "ridleys_lair1": true,
+    "ridleys_lair2": true
+  },
+  "game_age": {
+    "ticks": 3524076504
+  },
+  "start_location": {
+    "name": "Norfair"
+  },
+  "powerups": {
+    "bombs": true,
+    "high_jump_boots": true,
+    "long_beam": true,
+    "screw_attack": true,
+    "morph_ball": true,
+    "varia": true,
+    "wave_beam": true,
+    "ice_beam": true,
+    "morph_ball_taken": false,
+    "bombs_taken": false,
+    "varia_taken": false,
+    "high_jump_boots_taken": false,
+    "screw_attack_taken": false
+  },
+  "missiles": {
+    "count": 255
+  },
+  "armor": {
+    "swimsuit": false
+  },
+  "reset": false,
+  "debug_enabled": false
+}

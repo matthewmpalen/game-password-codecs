@@ -1,0 +1,99 @@
+{
+  "bosses": {
+    "ridley_killed": true,
+    "kraid_killed": true,
+    "zebetite1_killed": false,
+    "zebetite2_killed": false,
+    "zebetite3_killed": false,
+    "zebetite4_killed": false,
+    "zebetite5_killed": false,
+    "mother_brain_killed": false
+  },
+  "statues": {
+    "ridley_statue_raised": false,
+    "kraid_statue_raised": false
+  },
+  "doors": {
+    "long_beam": false,
+    "tourian_bridge": false,
+    "bombs": false,
+    "brinstar_ice_beam": false,
+    "varia": false,
+    "norfair_ice_beam": false,
+    "high_jump_boots": false,
+    "screw_attack": false,
+    "wave_beam": false,
+    "kraids_lair1": false,
+    "kraids_lair2": false,
+    "kraids_lair3": false,
+    "kraids_lair4": false,
+    "kraids_room": false,
+    "ridleys_lair": false,
+    "ridleys_room": false,
+    "tourian1": false,
+    "tourian2": false,
+    "tourian3": false
+  },
+  "missile_containers": {
+    "brinstar1": false,
+    "brinstar2": false,
+    "norfair1": false,
+    "norfair2": false,
+    "norfair3": false,
+    "norfair4": false,
+    "norfair5": false,
+    "norfair6": false,
+    "norfair7": false,
+    "norfair8": false,
+    "norfair9": false,
+    "norfair10": false,
+    "norfair11": false,
+    "norfair12": false,
+    "kraids_lair1": false,
+    "kraids_lair2": false,
+    "kraids_lair3": false,
+    "kraids_lair4": false,
+    "ridleys_lair1": false,
+    "ridleys_lair2": false,
+    "ridleys_lair3": false
+  },
+  "energy_tanks": {
+    "brinstar1": false,
+    "brinstar2": false,
+    "brinstar3": false,
+    "norfair": false,
+    "kraids_lair": false,
+    "kraids_room": false,
+    "ridleys_lair1": false,
+    "ridleys_lair2": false
+  },
+  "game_age": {
+    "ticks": 1
+  },
+  "start_location": {
+    "name": "invalid"
+  },
+  "powerups": {
+    "bombs": false,
+    "high_jump_boots": false,
+    "long_beam": false,
+    "screw_attack": false,
+    "morph_ball": false,
+    "varia": false,
+    "wave_beam": false,
+    "ice_beam": false,
+    "morph_ball_taken": false,
+    "bombs_taken": false,
+    "varia_taken": false,
+    "high_jump_boots_taken": false,
+    "screw_attack_taken": false
+  },
+  "missiles": {
+    "count": 255
+  },
+  "armor": {
+    "swimsuit": false
+  },
+  "reset": true,
+  "debug_enabled": false
+}
